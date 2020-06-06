@@ -103,5 +103,6 @@ dist
 # TernJS port file
 .tern-port
 push
+com
 server
 server/*
